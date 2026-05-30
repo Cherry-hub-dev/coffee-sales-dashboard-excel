@@ -25,6 +25,10 @@ Looking at the dashboard in "Screenshot 2026-05-24 172904.png", it highlights:
 
 ---
 
+![Coffee Sales Dashboard](screenshots/dashboard.png)
+
+---
+
 ### 🚀 How to Use the Project
 
 1. Download the `.xlsx` file from this repository.
